@@ -1,0 +1,23 @@
+{
+  "name": "pacman_with_friends_server",
+  "version": "1.0.0",
+  "description": "It's a server for Pacman_With_Friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LK-JP/Pacman_With_Friends_Server.git"
+  },
+  "author": "Joe, Mike, and Lindsay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LK-JP/Pacman_With_Friends_Server/issues"
+  },
+  "homepage": "https://github.com/LK-JP/Pacman_With_Friends_Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
